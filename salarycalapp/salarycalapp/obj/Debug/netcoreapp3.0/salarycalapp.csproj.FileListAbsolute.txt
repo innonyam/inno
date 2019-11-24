@@ -1,0 +1,11 @@
+C:\Users\Teacher\RiderProjects\salarycalapp\salarycalapp\bin\Debug\netcoreapp3.0\salarycalapp.exe
+C:\Users\Teacher\RiderProjects\salarycalapp\salarycalapp\bin\Debug\netcoreapp3.0\salarycalapp.deps.json
+C:\Users\Teacher\RiderProjects\salarycalapp\salarycalapp\bin\Debug\netcoreapp3.0\salarycalapp.runtimeconfig.json
+C:\Users\Teacher\RiderProjects\salarycalapp\salarycalapp\bin\Debug\netcoreapp3.0\salarycalapp.runtimeconfig.dev.json
+C:\Users\Teacher\RiderProjects\salarycalapp\salarycalapp\bin\Debug\netcoreapp3.0\salarycalapp.dll
+C:\Users\Teacher\RiderProjects\salarycalapp\salarycalapp\bin\Debug\netcoreapp3.0\salarycalapp.pdb
+C:\Users\Teacher\RiderProjects\salarycalapp\salarycalapp\obj\Debug\netcoreapp3.0\salarycalapp.csprojAssemblyReference.cache
+C:\Users\Teacher\RiderProjects\salarycalapp\salarycalapp\obj\Debug\netcoreapp3.0\salarycalapp.AssemblyInfoInputs.cache
+C:\Users\Teacher\RiderProjects\salarycalapp\salarycalapp\obj\Debug\netcoreapp3.0\salarycalapp.AssemblyInfo.cs
+C:\Users\Teacher\RiderProjects\salarycalapp\salarycalapp\obj\Debug\netcoreapp3.0\salarycalapp.dll
+C:\Users\Teacher\RiderProjects\salarycalapp\salarycalapp\obj\Debug\netcoreapp3.0\salarycalapp.pdb
